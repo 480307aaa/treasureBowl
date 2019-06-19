@@ -1,0 +1,87 @@
+swagger:http://123.103.9.204:6058/devonline/swagger-ui.html?urls.primaryName=%E7%A7%BB%E5%8A%A8%E7%AB%AF#/
+
+new java.sql.Date:系统时间转换为long类型
+
+yaoshw:ysw06078411
+
+idea注册机：http://172.20.9.78:1017
+
+提交代码流程：
+git pull
+git add .
+git status
+git commit -m "description"
+git push origin develop
+
+swagger注释API详细说明：https://blog.csdn.net/xupeng874395012/article/details/68946676
+
+BS根据桶和对象及带的资源参数来确定具体的URL:protocol ://hostname[:port] [/bucket] [/object] [?param]。
+
+code->token:
+127.0.0.1:8000/rest/v1/auth/code/
+
+翻墙：账号1365251230@qq.com，密码：lss13655419967
+
+restful api:
+看Url就知道要什么
+看http method就知道干什么
+看http status code就知道结果如何
+
+Mysql:数据库密码serg www.dychf.com.cn
+
+多语配置：
+en_US 英文
+zh_CN 中文简体
+zh_TW 中文繁体
+
+
+
+{"url":"http://ykj-yyim-test.oss-cn-beijing.aliyuncs.com/ticket/2018/11/09/09/44/5a3c871a-082a-4f81-bc4b-04022ad844ed.docx"}
+
+
+jprofiler:E-J10-YAOSHW#1543383-2019.01.20-10-i2vdwd3rq8fby#28b25
+
+xshell登陆91：ssh guest@172.20.54.22
+              ssh2 root@xxx(登陆具体的服务)
+
+
+项目redis服务器登陆：
+
+redis-cli -h host -p port -a password keys *upesn::todo-center::customtype::*|xargs redis-cli -h host -p port -a password del
+
+查某个空间下的人：
+select * from qz_base where name like '%开元%'  ;
+select * from qz_member_mapping  where qz_id=10364 and real_name = '王佳';
+
+
+空间直播是code验证，会议管理是token验证
+
+可用的租户id：先选中某一空间，然后在network XHR 搜索layout2/index
+
+本地和远程做关联：
+git push --set-upstream origin develop
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+http://172.20.9.47:8000/rest/v1/ticket?productLineCode=&appCode=&code=&creator=&database=&desc=&domain=&endTime=&limit=10&module=&projectName=&skip=0&startTime=&state=&type=&label=U8cloud2.0&token=JdPVKRJzFCSbBXeh%2FEWxXdr%2BS9WOTNWVEcBdW1NbcWVkW3B7sWWmIG5UxbTIvpaZSFymtwpbzNaEp1Uz7W91Fr36lueWCMV81nLNbl2s4LquNjLOWRgT%2F%2FjwzIdWXAxU
+
+
+
+
+
